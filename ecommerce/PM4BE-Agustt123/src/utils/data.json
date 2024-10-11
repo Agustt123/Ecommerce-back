@@ -1,0 +1,35 @@
+ [
+    {
+      "name": "Laptop Acer Aspire 5",
+      "description": "Laptop with Intel Core i5 processor, 8GB RAM, and 256GB SSD.",
+      "price": 599.99,
+      "stock": 50,
+      "category": "Electronics",
+      "imgUri": "https://example.com/laptop.jpg"
+    },
+    {
+      "name": "Nike Air Zoom Pegasus 38",
+      "description": "Running shoes with Zoom Air technology for responsive cushioning.",
+      "price": 129.99,
+      "stock": 100,
+      "category": "Sports",
+      "imgUri": "https://example.com/shoes.jpg"
+    },
+    {
+      "name": "Samsung 55-inch 4K Smart TV",
+      "description": "55-inch 4K UHD TV with HDR, smart features, and voice control.",
+      "price": 799.99,
+      "stock": 20,
+      "category": "Electronics",
+      "imgUri": "https://example.com/tv.jpg"
+    },
+    {
+      "name": "Sony WH-1000XM4 Wireless Headphones",
+      "description": "Noise-cancelling headphones with exceptional sound quality.",
+      "price": 349.99,
+      "stock": 30,
+      "category": "Electronics",
+      "imgUri": "https://example.com/headphones.jpg"
+    }
+  ]
+  
